@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning Course Labs
+Machine Learning Course Labs and Project
